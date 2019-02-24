@@ -1,0 +1,14 @@
+P:\Projetos 2019\adodbhelper\FBAdoDbHelperTestApp\bin\Debug\FBAdoDbHelperTestApp.exe.config
+P:\Projetos 2019\adodbhelper\FBAdoDbHelperTestApp\bin\Debug\FBAdoDbHelperTestApp.exe
+P:\Projetos 2019\adodbhelper\FBAdoDbHelperTestApp\bin\Debug\FBAdoDbHelperTestApp.pdb
+P:\Projetos 2019\adodbhelper\FBAdoDbHelperTestApp\bin\Debug\FBAdoDBHelper.dll
+P:\Projetos 2019\adodbhelper\FBAdoDbHelperTestApp\bin\Debug\ADODBHelperBase.dll
+P:\Projetos 2019\adodbhelper\FBAdoDbHelperTestApp\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+P:\Projetos 2019\adodbhelper\FBAdoDbHelperTestApp\bin\Debug\FBAdoDBHelper.pdb
+P:\Projetos 2019\adodbhelper\FBAdoDbHelperTestApp\bin\Debug\ADODBHelperBase.pdb
+P:\Projetos 2019\adodbhelper\FBAdoDbHelperTestApp\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+P:\Projetos 2019\adodbhelper\FBAdoDbHelperTestApp\obj\Debug\FBAdoDbHelperTestApp.csprojAssemblyReference.cache
+P:\Projetos 2019\adodbhelper\FBAdoDbHelperTestApp\obj\Debug\FBAdoDbHelperTestApp.csproj.CoreCompileInputs.cache
+P:\Projetos 2019\adodbhelper\FBAdoDbHelperTestApp\obj\Debug\FBAdoDbHelperTestApp.csproj.CopyComplete
+P:\Projetos 2019\adodbhelper\FBAdoDbHelperTestApp\obj\Debug\FBAdoDbHelperTestApp.exe
+P:\Projetos 2019\adodbhelper\FBAdoDbHelperTestApp\obj\Debug\FBAdoDbHelperTestApp.pdb

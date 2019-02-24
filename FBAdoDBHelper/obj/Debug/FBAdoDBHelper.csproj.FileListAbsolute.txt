@@ -1,0 +1,11 @@
+P:\Projetos 2019\adodbhelper\FBAdoDBHelper\bin\Debug\FBAdoDBHelper.dll
+P:\Projetos 2019\adodbhelper\FBAdoDBHelper\bin\Debug\FBAdoDBHelper.pdb
+P:\Projetos 2019\adodbhelper\FBAdoDBHelper\bin\Debug\ADODBHelperBase.dll
+P:\Projetos 2019\adodbhelper\FBAdoDBHelper\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+P:\Projetos 2019\adodbhelper\FBAdoDBHelper\bin\Debug\ADODBHelperBase.pdb
+P:\Projetos 2019\adodbhelper\FBAdoDBHelper\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+P:\Projetos 2019\adodbhelper\FBAdoDBHelper\obj\Debug\FBAdoDBHelper.csprojAssemblyReference.cache
+P:\Projetos 2019\adodbhelper\FBAdoDBHelper\obj\Debug\FBAdoDBHelper.csproj.CoreCompileInputs.cache
+P:\Projetos 2019\adodbhelper\FBAdoDBHelper\obj\Debug\FBAdoDBHelper.csproj.CopyComplete
+P:\Projetos 2019\adodbhelper\FBAdoDBHelper\obj\Debug\FBAdoDBHelper.dll
+P:\Projetos 2019\adodbhelper\FBAdoDBHelper\obj\Debug\FBAdoDBHelper.pdb
