@@ -8,7 +8,7 @@ using FirebirdSql.Data.FirebirdClient;
 
 namespace FirebirdADODbHelper
 {
-    public class FBAdoDBHelper : ADODbHelperBase<FbConnection,FbCommand,FbDataAdapter,FbParameter>
+    public class FBAdoDBHelper : ADODbHelperBase<FbConnection,FbCommand,FbDataAdapter,FbParameter>, IADODBHelper
     {
         public FBAdoDBHelper(string connectionString) : base(connectionString) { }
     }

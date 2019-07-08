@@ -9,7 +9,7 @@ using System.Reflection;
 
 namespace ADODBHelperBase
 {
-    public abstract class ADODbHelperBase<CnxType, CmdType, AdpType, ParamType> : IDisposable
+    public abstract class ADODbHelperBase<CnxType, CmdType, AdpType, ParamType> : IDisposable, IADODBHelper
         where CnxType : DbConnection, new()
         where CmdType : DbCommand, new()
         where AdpType : DbDataAdapter, new()
